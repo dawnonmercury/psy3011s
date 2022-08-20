@@ -1,0 +1,39 @@
+@document.meta
+title: reading
+description: 
+authors: dawn
+categories: 
+created: 2022-07-27
+version: 0.0.11
+@end
+
+* Docrat et al (2019)
+  - Data regarding how well mental health policy is implemented in a country is
+    incredibly important for tracking the effectiveness of that policy, and for
+    planning future mental health promotion programs.
+  - South Africa (and other LMICs) struggle with keeping accurate spending &
+    resource data on mental health programs
+  - Mental health programs struggle against major competing issues for parts
+    of the health budget, only recently climbing to a ~5% share of the budget
+    (a minimum recommended expenditure on mental health).
+  - South Africa's current mental health infrastructure grossly over relies
+    on specialised facilities, lagging behind the stated policy goal of
+    community centric care.
+  - The above leads to an enormous gap in treatment, with the vast majority
+    of uninsured people with mental illness not getting the help that they need.
+
+* Baker & Naidu (2021)
+  - Mental helathcare in pilot studies for integration with primary health-care
+    providers have shown challenges related to a lack of funding, proper
+    training, and understaffing.
+  - Challenges include mental healthcare users feeling like they are
+    disrespected and abused, potentially due to poor training and overworked
+    staff.
+  - Lack of adequate funding and logistical issues means that patients often
+    go without medication for months, and otherwise are treated to poorly
+    situated facilities.
+  - This study was limited by the fact that it was a small sample qualitative
+    study, but was able to engage deeply with the challenges faced by patients.
+  - Future studies can expand this one in a variety of contexts, and with
+    more quantitative approaches, in order to inform better implementation of
+    mental healthcare policy.
