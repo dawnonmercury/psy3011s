@@ -83,7 +83,7 @@
       <file>tutass1OPRNET001.bcf</file>
     </requires>
     <requires type="editable">
-      <file>../psy3011s.bib</file>
+      <file>$BIB/psy3011s.bib</file>
     </requires>
   </external>
 </requests>
