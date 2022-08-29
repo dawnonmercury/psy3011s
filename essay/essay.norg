@@ -34,6 +34,11 @@ version: 0.0.11
   ** Intro
   - Outline aims and structure
   - Describe the prevalence of depression in Africa
+     -- "Depression is significantly more common in HIV infected persons where
+        the global prevalence is 12.8%-78% compared with 4.7% in the general
+        population" (logfren et al)
+     -- "In Africa, which has the highest burden of HIV depression, treatment
+        is especially difficult."
 ** Review evidence base for depression treatment in Africa
    - What interventions are effective?
    -- Where?
@@ -54,3 +59,17 @@ version: 0.0.11
 ** Conclusion
 
 * Readings
+** Lofgren et al (2018)
+   - Systematic review of studies for depression interventions for people with
+     HIV/AIDs in Africa, specifically looking for how many interventions have
+     been tested for feasibility in Africa and how effective they are.
+   - Most of the studies used were feasibility studies or trials and therefore
+     did not use controls; they ranged from psychotherapies to novel treatments
+     and task-shifted interventions; of note was that all studies happened to
+     be from southern african states.
+   - Generally, the studies all found that there was a good response in
+     depressive symptoms, and that generally the suggested interventions were
+     feasible in african low-resource contexts.
+   - However, more studies need to be done on expanding these interventions,
+     and on how well they do on depression when they specifically target
+     depression v a control.
