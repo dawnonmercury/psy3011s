@@ -44,6 +44,12 @@ version: 0.0.11
      -- "The findings confirm through the narratives provided by participants
         that untreated depression is common in resource scarce communities
         underscoring the reality of the treatment gap" (Nyatsanza et al)
+   -- "Mental disorders cause considerable suffering, disability and social
+      exclusion in Africa, and are poorly recognised and undertreated"
+      (Chibanda et al)
+   -- "In Zimbabwe, common mental disorders, such as depression mixed with
+      anxiety, are found in over 25% of those attending primary health care
+      servicess, and in up to 30% of females in the community"
 ** Review evidence base for depression treatment in Africa
    - What interventions are effective?
    -- Where?
@@ -78,6 +84,14 @@ version: 0.0.11
    -- How can it be improved?
    - NB *must show understanding of what _evidence-based_ means*
    - NB *must show understanding of the issues covered in class*
+*** Friendship Bench
+    - "Short follow-up period of 6 weeks." (Chibanda et al)
+    - "Observed drop in SSQ score... was not controlled for potential
+      confounding factors such as socio-economic position."
+    - "Lay workers were not observed during the course of their work and what
+      they did in practice could have differed from their training."
+    - I do wonder if there should have been more effort into qualitative-ish
+      description of the clients' experiences after the intervention.
 ** Reflection
    - What has been the most interesting thing that I learned or came to
      understand?
@@ -126,3 +140,23 @@ version: 0.0.11
    - Sample size was small, but this was a qualitative study in the first place
      and this was enough to illustrate the broadly necessary aspects to a
      feasible intervention.
+** Chibanda et al (2011)
+   - Friendship Bench is a 6-session PST intervention provided by lay workers
+     in Mbare, Zimbabwe, measuring CMDs based on the Shona Symptom Scale; many
+     of the clients did not only display depression or depresson/anxiety, but
+     also had other comorbidities such as HIV/AIDs.
+   - Generally, participants in the intervention showed a reduction in SSQ
+     scores, greater reduction corresponding to more time spent participating.
+   - Clients notes that they particularly trusted these lay workers, and the
+     lay workers trusted themselves to adequately administer the intervention;
+     the intervention included a number of parts that were proactive and
+     culturally relevant such as planning activities, talking through problems
+     and figuring out immediate solutions, and prayer.
+   - To note, there was an unusually low amount of attrition, potentially due
+     to the specific cultural features of Mbare; this trial was not controlled,
+     so there is no way to know if the positive effects of the intervention are
+     due to confounding factors.
+   - This intervention shows a lot of promise as a low-intensity intervention
+     that can lower stigmatisation, reach a large pool of clients, and
+     and efficiently help to minimise the burden of CMDs on the Zimbabwe health
+     system.
