@@ -16,8 +16,8 @@ version: 0.0.11
   - [x] write outline
   - [ ] find suitable readings (2 per day)
   -- [x] notes and bib taken
-  -- [ ] notes and bib taken
-  -- [ ] notes and bib taken
+  -- [x] notes and bib taken
+  -- [x] notes and bib taken
   -- [ ] notes and bib taken
   -- [ ] notes and bib taken
   -- [ ] notes and bib taken
@@ -31,7 +31,7 @@ version: 0.0.11
    - [ ] submit
 
 * Outline
-  ** Intro
+** Intro
   - Outline aims and structure
   - Describe the prevalence of depression in Africa
      -- "Depression is significantly more common in HIV infected persons where
@@ -41,21 +41,37 @@ version: 0.0.11
         is especially difficult."
      -- "In spite of that, research into depression interventions have largely
         only come recently"
+     -- "The findings confirm through the narratives provided by participants
+        that untreated depression is common in resource scarce communities
+        underscoring the reality of the treatment gap" (Nyatsanza et al)
 ** Review evidence base for depression treatment in Africa
    - What interventions are effective?
    -- Where?
    -- Describe them, and comment on mode of delivery
    --- individual, group; professional, non-professional; primary health,
        community health; etc.
-   - "locally adapted PST, delivered by CHWs, is effective in reducing symptoms
-     of depression" (lund et al 2014)
-   -- Kayelitsha
    - "These interventions show that there are many impactful ways to improve the
      lives of those with HIV in Africa, and in turn improve HIV outcomes"
      (Lofgren et al)
    - "While larger studies are needed to show efficacy, there is clear evidence
      that psychotherapy and antidepressant delivery are feasible and acceptable
      in Africa."
+*** Task sharing CBT and PST based intervention
+   - "locally adapted PST, delivered by CHWs, is effective in reducing symptoms
+     of depression" (lund et al 2014)
+   -- Kayelitsha
+    - "We found that task shared counselling for perinatal depression in
+      Kayelitsha was feasible and acceptable provided that certain conditions
+      were met" (Nyatsanza et al)
+    -- "female counsellor and felt that clinic based individual sessions
+       should be provided at least once a month by an experiences Xhosa
+       speaking counsellor"
+    -- "content of a counselling intervention should include psycho-education
+       on cognitive and behavioural effects of depression, how to cope with
+       interpersonal problems and financial stressors"
+    - "We were able to incorporate these conditions into our intervention
+      development in order to make it locally relevant and to increase the
+      uptake of our intervention."
 ** Quality of evidence
    - How strong is the existing evidence?
    - What are the limitations of the evidence?
@@ -95,3 +111,18 @@ version: 0.0.11
    - Measure is depression (HDRS 17-item; EPDS; Mini Int. Neuropsychiatric
      interview;...) *NB* cross-check the outcome measures with these.
    - 420 women, half in each group.
+** Nyatsanza et al (2016)
+   - Qualitative study of CHWs and clients in order to develope a manual for a
+     task sharing intervention for perinatal depression
+   - Such an intervention (based on CBT and PST techniques) is feasible and
+     acceptable in a clinic setting in Kayelitsha, provided counsellor is
+     female and Xhosa speaking, and that the counselling should include some
+     amount of psycho-education on the effects of depression and coping
+     strategies.
+   - Among other things, intervention needs to take into account some context
+     such as clinic based counselling being more likely to uptake because of
+     avoiding stigma, and counsellors potentially not being able to participate
+     because of their /own/ trauma.
+   - Sample size was small, but this was a qualitative study in the first place
+     and this was enough to illustrate the broadly necessary aspects to a
+     feasible intervention.
