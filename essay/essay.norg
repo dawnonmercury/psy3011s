@@ -45,6 +45,8 @@ version: 0.0.11
    -- Describe them, and comment on mode of delivery
    --- individual, group; professional, non-professional; primary health,
        community health; etc.
+   - "locally adapted PST, delivered by CHWs, is effective in reducing symptoms
+     of depression" (lund et al 2014)
 ** Quality of evidence
    - How strong is the existing evidence?
    - What are the limitations of the evidence?
@@ -73,3 +75,14 @@ version: 0.0.11
    - However, more studies need to be done on expanding these interventions,
      and on how well they do on depression when they specifically target
      depression v a control.
+** Lund et al (2014)
+   - study protocols (no data yet) for a RCT for a task sharing intervention in
+     Kayelitsha for depression in mothers.
+   - Control is a series of phonecalls that scan for signs of suicidality and
+     depression, and refer the client to a specialist if necessary; augmenting
+     the usual care that mothers receive from the clinic.
+   - The intervention is given by normal nurses who have been trained to
+     deliver manual-based counselling.
+   - Measure is depression (HDRS 17-item; EPDS; Mini Int. Neuropsychiatric
+     interview;...) *NB* cross-check the outcome measures with these.
+   - 420 women, half in each group.
