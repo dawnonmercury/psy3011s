@@ -20,15 +20,17 @@ version: 0.0.11
   -- [x] notes and bib taken
   -- [x] notes and bib taken
   -- [x] notes and bib taken
-  -- [ ] notes and bib taken
-  -- [ ] notes and bib taken
+  -- [x] notes and bib taken
+  -- [x] notes and bib taken
   -- [ ] notes and bib taken
   - [ ] synthesise readings into outline
+
 ** TODO week 2
    - [ ] write first draft
    - [ ] talk to writing center
    - [ ] edit final draft
    - [ ] submit
+
 
 * Outline
 ** Intro
@@ -194,6 +196,7 @@ version: 0.0.11
      poverty based problems.
 ** Conclusion
 
+
 * Readings
 ** Lofgren et al (2018)
    - Systematic review of studies for depression interventions for people with
@@ -276,3 +279,22 @@ version: 0.0.11
      of the project, the fellowship and support that it provided, the income
      generation that it provided, and that they would be maintaining the groups
      well after the study ended.
+** Chibanda et al (2015) and Chibanda et al (2016)
+   - Random trial for Friendship Bench, control arm was usual care supplemented
+     by psycho-education, specifically had a large sample size, and high
+     statistical predictability power.
+   - Once again, 6-session intervention based on PST, with a peer group project
+     and a focus on the intersection between CMDs and poverty.
+   - problem-solving therapies seem to be effective in zimbabwe, especially
+     as provided by lay workers, once again with participants in the
+     intervention arm of the study showing more improvement than those in the
+     control arm, which is attractive because of the relatively lower required
+     training (only 5 to 6 days etc).
+   - Peer support meetings were important, but study was unable to isolate the
+     mechanism of change; notably peer support groups continued after the
+     intervention ended.
+   - This intervention very specifically uses local knowledge and language,
+     which helps the functioning of the intervention; however, there were
+     some limitations such as only a relatively short follow-up (6 months),
+     only a few men, there were no qualitative assessments, so it's difficult
+     to see how much of a real world difference this intervention has made.
