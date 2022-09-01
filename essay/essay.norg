@@ -19,7 +19,7 @@ version: 0.0.11
   -- [x] notes and bib taken
   -- [x] notes and bib taken
   -- [x] notes and bib taken
-  -- [ ] notes and bib taken
+  -- [x] notes and bib taken
   -- [ ] notes and bib taken
   -- [ ] notes and bib taken
   -- [ ] notes and bib taken
@@ -108,6 +108,51 @@ version: 0.0.11
       - "A daily peer-support group for lay workers was introduced"
     - "t-tests and regression models to test changes in SSQ scores before and
       after completion of the treatment, adjusting for SSQ scores at baseline."
+    - "[PST] teaches a participant to use a step-by-step approach to solve life
+      challenges..." (Fernando et al)
+    - "... based on indigenous concepts of [PST]: Opening the mind... uplifting
+      ... strengthening and strengthening further"
+    - "VHWs received 5 days of residential training by a team comprising a
+      research nurse, District Mental Health nurse, District VHW trainer and
+      five [FB] trainers"
+    - "We enrolled women to thecurrent study who had previously participated in
+      the SHINE trial and had been identified with depression"
+    - There was a cut off for suicidal ideation and self-harm that the
+      intervention simply wasn't able to deal with.
+    - "Purposively sampled"
+    - Used the SSQ, which is a localized version of the Edinburgh Postnatal
+      Depression Scale
+    - "VHWs conducted weekly home visits for 6 weeks, using a structured
+      approach to identify problems and generate solutions"
+    - "VHWs were trained to identify 'red flags' indicating clinically
+      significant depression or suicidal ideation; tjese wp,em were referred to
+      local clinics or discussed with the District mental health nurse"
+    - "After the third session, women were invited to join a peer-support group
+      known as Circle Kubatana Tose"
+    - "CKT groups bring women together to share and solve problems, and to
+      initiate income generating activities"
+    - After the intervention, participants were re-evaluated for quantitative
+      data collection, and 10 participated in semi-structured interviews to
+      collect qualitative data
+    - "interviews suggested that many of the women responded well to the
+      intervention, with one commenting that she 'did not see anything that did
+      not work well in the Friendship Bench'"
+    - "This sense of the intervention's acceptability was made apparent through
+      women's discussion of the ways in which it supported them to deal more
+      effectively with problems..."
+    - suggesting acceptability is also "the request that several of the
+      participants made about keeping the [FB] going..."
+    - "The [PST] approach was not regarded as entirely novel... however it was
+      identified as being of particular benefit by all participants"
+    - "After six ... sessions, the proportion of women with clinically
+      significant depresson scores on the EPDS declined from 68% to 12% which
+      is similar to prior findings from urban settings"
+    - "To an extent the value of CKT groups can be understood in monetary terms,
+      as women used the networks they establised to extend their income-
+      generating opportunities"
+    - "The emphasis on addressing poverty- and gender-related issues through the
+      CKT groups highlights the well-established causal relationship between
+      poverty and [CMDs]"
 ** Quality of evidence
    - How strong is the existing evidence?
    - What are the limitations of the evidence?
@@ -122,6 +167,18 @@ version: 0.0.11
       they did in practice could have differed from their training."
     - I do wonder if there should have been more effort into qualitative-ish
       description of the clients' experiences after the intervention.
+    - Fernando et al (2021) collected quantitative data as well as qualitative
+      data.
+    - "This was a pilot study among a small group... findings cannot be
+      generalised" (Fernando et al)
+    - "... Their previous research experiences may have shaped their reactions
+      to the new intervention"
+    - "results were consistent across all tools, and outcomes were measured by
+      a separate cadre to those delivering the intervention"
+    - "We also collected rich qualitative data, which strongly supported the
+      quantitative findings"
+    - There was also no sort of control in this intervention, but this might
+      not be the biggest deal just yet.
 ** Reflection
    - What has been the most interesting thing that I learned or came to
      understand?
@@ -132,6 +189,9 @@ version: 0.0.11
    - What I'm worried about is how many of these interventions /only/ focus
      on "getting used to adverse situations" rather than finding ways to make
      these living conditions acceptable.
+   - The /Friendship Bench/ appears to have a group project alongside it that
+     explicitly attempts to help generate extra income and create support for
+     poverty based problems.
 ** Conclusion
 
 * Readings
@@ -195,3 +255,24 @@ version: 0.0.11
      that can lower stigmatisation, reach a large pool of clients, and
      and efficiently help to minimise the burden of CMDs on the Zimbabwe health
      system.
+** Fernando et al (2021)
+   - Pilot study for /Friendship Bench/ taking place in a rural region as
+     opposed to the (2011) study in an urban region, seeing if the same effects
+     can be carried over.
+   - Once again, ten lay workers delivering a PST based intervention over
+     roughly 6 sessions across 6 weeks, this time specifically to young
+     mothers.
+   - Measures based on the SSQ from before and the EPDS, with the success of
+     the trial being based on a reduction of depression in these measures *and*
+     a positive response from the lay workers and participants in a qualitative
+     interview afterwards.
+   - Generally, the longer participants spent with the intervention the lower
+     their depression scores were *and* the better their experiences seemed to
+     be with the intervention, with participants expressing how greatful they
+     were to have the intervention.
+   - Unline the (2011) pilot, the social-group-project that is normally used
+     alongside the Friendship Bench was also evaluated for its effectiveness,
+     and it was found that participants expressed appreciation for the creation
+     of the project, the fellowship and support that it provided, the income
+     generation that it provided, and that they would be maintaining the groups
+     well after the study ended.
