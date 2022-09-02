@@ -183,6 +183,33 @@ version: 0.0.11
     - "Several elements of the intervention emerged as socially and culturally
       appropriate. These included the use of screening tools which incorporated
       local terminology for emotional distress"
+*** Inuka Coach
+    - "The intervention consisted of four chat-sessions that were delivered
+      through a chat-based service on an android device in the health centre"
+      (Doukani et al 2021)
+    - "Coaches were required to follow the seven-step procedure outlined below"
+    -- (1) problem list (2) selecting a problem (3) goal setting (4)
+       brainstorming for solutions (5) selecting a solution (6) SMART action
+       plan (7) evaluation of the action plan
+    - "participants were assessed at baseline, at the end of the intervention
+      (4-weeks), and at the 3-months follow-up assessment"
+    - the SRQ-20 was used for CMD symptom evaluation
+    -- "... has been validated in clinical populations in Kenya"
+    - PHQ was used to assess depression as a secondary outcome
+    - "Age was found to be significantly associated with PHQ-9 scores,
+      suggesting that a higher PHQ-9 score decrease was observed for
+      participants above 30 years"
+    - "absence of suicidal ideation predicted a higher score reduction on the
+      SRQ and PHQ"
+    - "included people who scored 8 or higher on the [SRQ], were aged 18 years
+      or older, were conversant in written and spoken English, familiar and
+      comfortable with the use of smart mobile devices..."
+    - "CHVs were trained to coach participants through the PST intervention on
+      the Inuka mobile app by a senior training specialist who worked on the
+      [FB]"
+    - "The three-day training took place in the health centre and consisted of
+      an introduction to PST, a step-by-step guide, and mock practice session."
+
 ** Quality of evidence
    - How strong is the existing evidence?
    - What are the limitations of the evidence?
@@ -213,6 +240,14 @@ version: 0.0.11
       a lack of documentation for quantitative analysis; however, they had rich
       qualitative data which definitely supports the effectiveness and
       acceptability of the intervention.
+*** Inuka Coach
+    - "study was conducted as a single-arm, naturalistic, follow-up study in
+      which no control condition was used" (Doukani et al 2021)
+    - "only offering the intervention to people who were conversant in writing
+      and speaking English"
+    - There needs to be a qualitative exploration of how effective the clients
+      found this intervention to actually be
+    - The intervention was delivered in the clinic, not in real world conditions
 ** Reflection
    - What has been the most interesting thing that I learned or came to
      understand?
@@ -356,3 +391,16 @@ version: 0.0.11
      (emotional, professional, and financial), better documentation, and better
      ways to support extreme poverty and other issues that are outside the
      scope of this intervention.
+** Doukani et al (2021)
+   - Pilot study, attempting to adapt PST of the [FB] program to work as a
+     low-intensity intervention given over by CHVs over mobile app in Kenya,
+     and attempting to see how effective it would be.
+   - Used the SRQ, measured at baseline, after 4 weeks, and at 3 months, and
+     generally showed reduction in symptoms.
+   - This was not an RCT, and other limitations seem to be the very short
+     training time for CHVs, and the inclusion criteria were very strict
+     (english conversant only), and despite testing a mobile based intervention
+     the study required participants to come /into/ the clinic, so these were
+     far from real-world conditions.
+   - There were reductions in the SRQ score, and essentially male, older, and
+     non-suicidal participants showed greater reductions.
