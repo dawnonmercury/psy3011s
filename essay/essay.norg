@@ -22,7 +22,7 @@ version: 0.0.11
   -- [x] notes and bib taken
   -- [x] notes and bib taken
   -- [x] notes and bib taken
-  -- [ ] notes and bib taken
+  -- [x] notes and bib taken
   - [ ] synthesise readings into outline
 
 ** TODO week 2
@@ -52,6 +52,8 @@ version: 0.0.11
    -- "In Zimbabwe, common mental disorders, such as depression mixed with
       anxiety, are found in over 25% of those attending primary health care
       servicess, and in up to 30% of females in the community"
+   - Honestly, literally all of the articles will help explain prevalence in
+     Africa.
 ** Review evidence base for depression treatment in Africa
    - What interventions are effective?
    -- Where?
@@ -127,7 +129,7 @@ version: 0.0.11
     - "VHWs conducted weekly home visits for 6 weeks, using a structured
       approach to identify problems and generate solutions"
     - "VHWs were trained to identify 'red flags' indicating clinically
-      significant depression or suicidal ideation; tjese wp,em were referred to
+      significant depression or suicidal ideation; these women were referred to
       local clinics or discussed with the District mental health nurse"
     - "After the third session, women were invited to join a peer-support group
       known as Circle Kubatana Tose"
@@ -155,6 +157,32 @@ version: 0.0.11
     - "The emphasis on addressing poverty- and gender-related issues through the
       CKT groups highlights the well-established causal relationship between
       poverty and [CMDs]"
+    - "Referrals to the [FB] come from primary care, comm. agencies..., and
+      self-referral" (Abas et al 2016)
+    - "LHW sit with the patient on the wooden bench and carries out a
+      structured psycho-social assessment, including socio-demographic info.,
+      the presenting problems, mental health symptoms using the SSQ for CMDs,
+      and a brief risk screen."
+    - "The LHW can give advice and discharge, begin PST for those scoring above
+      the cut-point on the SSQ, and/or refer to the supervisor if the SSQ is
+      very high"
+    - "For clients in dire financial need, the LHW can also refer to a small
+      number of income generating projects,... [eg] Zee Bag."
+    - "Data availability proved extremely limited..." so only data on sessions
+      explicitly provided by the clinics (as opposed to in the community) could
+      be included.
+    - "Just under half of patients (48%) attended once only. For those attending
+      more than once, most visited twice, with only 5.7% receiving 4 or more
+      talking therapy sessions"
+    - "The patients, LHWs and supervisor all reported many positive views of
+      the [FB], illustrating the intervention's high level of personal and
+      socio-cultural acceptability"
+    - "Several patients spoke about how the intervention helped to 'open up my
+      mind'"
+    - "Similar kinds of opinions were expressed by the LHWs"
+    - "Several elements of the intervention emerged as socially and culturally
+      appropriate. These included the use of screening tools which incorporated
+      local terminology for emotional distress"
 ** Quality of evidence
    - How strong is the existing evidence?
    - What are the limitations of the evidence?
@@ -181,6 +209,10 @@ version: 0.0.11
       quantitative findings"
     - There was also no sort of control in this intervention, but this might
       not be the biggest deal just yet.
+    - Abas et al (2016) evaluated the effectiveness of [FB], and they ran into
+      a lack of documentation for quantitative analysis; however, they had rich
+      qualitative data which definitely supports the effectiveness and
+      acceptability of the intervention.
 ** Reflection
    - What has been the most interesting thing that I learned or came to
      understand?
@@ -298,3 +330,29 @@ version: 0.0.11
      some limitations such as only a relatively short follow-up (6 months),
      only a few men, there were no qualitative assessments, so it's difficult
      to see how much of a real world difference this intervention has made.
+** Abas et al (2016)
+   - An analysis of the effectiveness of the /Friendship Bench/ project, which
+     notes the relative lack of data on interventions in LMICs and Africa
+     specifically.
+   - The intervention shows a good amount of acceptance in the local community
+     based on how high their attendance is and based on qualitative interviews
+     of clients and LHWs, who generally feel that the program helps them to
+     solve problems and to feel like they are giving back to the community,
+     respectively.
+   - Among the factors which seem to make the intervention work is the position
+     of the LHWs in the community, they are respected and have cultural
+     associations which engender trust; the intervention is client-focused;
+     located within local understandings of mental health; and the PST based
+     programs specifically help to alleviate some of the socio-economic causes
+     of CMDs.
+   - LHWs ran into some issues such as not being able to adequately help with
+     some extreme problems, such as extreme poverty, HIV/AIDs, suicidality, and
+     therefore became distressed and discouraged; further, LHWs were generally
+     committed to the intervention, but need some sort of financial
+     remuneration for their time.
+   - The intervention seems to /work/, and people seem to like and appreciate
+     the program, so upscaling seems like a good idea; however, there needs to
+     be a better system in place for supervision and support for the LHWs
+     (emotional, professional, and financial), better documentation, and better
+     ways to support extreme poverty and other issues that are outside the
+     scope of this intervention.
