@@ -45,8 +45,8 @@ version: 0.0.13
 
 * Outline /2 pages/
 ** Intro /2/3 page/
-   - [ ] Explain the topic
-   - [ ] Outline the shape of this essay
+   - [x] Explain the topic
+   - [x] Outline the shape of this essay
    - [ ] What is DMDD
    - [ ] Why was it included?
 ** Advantages and Disadvantages /1 page or more/
