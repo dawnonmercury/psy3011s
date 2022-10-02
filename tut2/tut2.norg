@@ -47,19 +47,162 @@ version: 0.0.13
 ** Intro /2/3 page/
    - [x] Explain the topic
    - [x] Outline the shape of this essay
-   - [ ] What is DMDD
-   - [ ] Why was it included?
+   - [x] What is DMDD
+   - [x] Why was it included?
 ** Advantages and Disadvantages /1 page or more/
-   - [ ] Why is it a good thing that it was included?
-   -- There was an over-diagnosis problem with BD in children, this attempts to
-      alleviate it
-   -- The suggested treatments for this are theoretically less dangerous for
-      misdiagnosed children and adolescents than BD
-   - [ ] Why is it a bad thing that it was included?
-   -- Insufficient evidence
-   -- It is very indistinct, almost never discrete
-   -- Contributes to over-diagnosis rather than fixing it
-   - [ ] What are some alternatives?
+   - [x] Why is it a good thing that it was included?
+   -- *This creates a vector to treat irritability and anger when they are
+   impairing*
+   -- "Prior to [the DSM-5] it was difficult to diagnose and suitably treat a
+      child presenting with significant impairment and dysfunction [due to]
+      persistent irritability, angry mood, and frequent temper outbursts"
+      *(mahli & bell 2019)*
+   -- "In the DSM-4, none of the defined childhood disorders fully captured the
+      central symptom of /persistent/ irritability"
+   -- *There was an over-diagnosis problem with BD in children, this attempts to
+      alleviate it*
+   -- *The suggested treatments for this are theoretically less dangerous for
+      misdiagnosed children and adolescents than BD*
+   -- "irritability is not exclusive to mania" *(mahli & bell 2019)*
+   -- "... diagnostic extrapolation of BD to explain chronic irritability in
+      youth resulted in the rates of paediatric BD diagnoses increasing by
+      approximately 500% in less than a decade"
+   -- "broadening of the diagnosis meant more widespread prescription of
+      medications"
+   -- "- a particularly grave concern because of the risks the use of
+      antipsychotics and antidepressants pose in which they have not properly
+      been tested"
+   -- "Recognizing the catastrophic misdiagnosis of childhood bipolar, they
+      hoped to replace it with DMDD, which doesn't carry the same implications
+      of lifetime illness" *(Frances 2013)*
+   -- "... and is less likely to be overmedicated with obesity-inducing drugs."
+   -- "DMDD does provide a home for a large percentage of of referred
+      children..." *(Baweja 2016)*
+   -- "With this broader concept of pediatric bipolar disorder in the US, the
+      rate of bipolar disorder diagnosis increased over 40-fold in less than a
+      decade."
+   -- "This trend is concerning given the potential side effects of these
+      medications and the paucity of long-term safety data in developing
+      children."
+   -- "Regardless of how chornic nonepisodic irritability is categorized
+      diagnositcally, there is consensus that it can be severely impairing and
+      merits treatments."
+   -- "As an alternative to subsuming chronic irritability in children under
+      bipolar disorder, DSM-5 created DMDD"
+   -- "At times, some children exhibit [irritability and anger] more frequently
+      and intensely, to the extent that they become impairing forms of
+      emotional Dysregulation" *(Lochman 2015)*
+   -- "...this phenomenon is widely believed to account for significant
+      misdiagnosis of children as having bipolar disorder"
+   -- "Severe irritability/anger appears to be a clinically significant feature
+      and predictor of outcomes across development"
+   -- "[With the increse in BD diagnoses] there was also an increasing tendency
+      to use medications appropriate for adult BD... despite a paucity of
+      clinical trials of these... wuth child populations."
+   -- "[also] children with severe irritability and anger are unlikely to
+      exhibit manic or hypomanic episodes... so that medications for BD are...
+      [in]appropriate"
+   - [x] Why is it a bad thing that it was included?
+   -- *Insufficient evidence*
+   -- "Research evidenc eon DMDD is almost nonexistent, based only on a few
+      years of work by just one research group" *(Frances 2013)*
+   -- "... introduced to the DSM-5 without published validity studies" *(Baweja
+      2016)*
+   -- "...evidence to support DMDD diagnoses derives mainly from studies of SMD,
+      which is related to DMDD, but not identical"
+   -- "... many with SMD would not have DMDD"
+   -- "DMDD is based on limited research" *(Lochman 2015)*
+   -- "the evidence base for DMDD was derived primarily from studies of the
+      construct of SMD, which differs from DMDD" *(Mayes et al 2016)*
+   -- *It is very indistinct, almost never discrete*
+   -- "DMDD... [is] frequently associated with other psychiatric disorders,
+      most commonly disruptive behavior disorders (especially ODD) and anxiety/
+      mood disorders" *(Baweja 2016)*
+   -- "The majority of youth with DMDD had already received treatment for other
+      comorbid disorders, mainly a mood or behavior disorder"
+   -- "... with ODD who met DMDD criteria did not differ significantly from
+      their counterparts without DMDD"
+   -- "The concern about the overlap between DMDD and ODD is exacerbated by the
+      DSM-5 preclusion from diagnosing ODD in children meeting the criteria for
+      DMDD"
+   -- "However, DMDD symptoms are found in many psychiatric disorders and rarely
+      occur in isolation, to the degree that the formulation of DMDD as a unique
+      and separate disorder is not well supported by the present literature base."
+   -- "Notably, a large majority of the children diagnosed with bipolar
+      disorder based on... irritability would have also met the diagnostic
+      requirements for ODD" *(Lochman 2015)*
+   -- "irritability is a principle symptom of DMDD and it is common to the
+      phenomenonology of several externalising disorders" *(Mahli & Bell 2019)*
+   -- "there is significant overlap between DMDD and a number of other
+      disorders"
+   -- "In addition to the overlap..., some sumptoms of DMDD may be a
+      consequence of irritability and there are also found in a range of
+      childhood disorders"
+   --- "For example, behavioural symptoms such as destruction of property,
+       physical/verbal aggression and being argumentative may arise because of
+       ongoing irritability, but these are also the diagnostic criteria for
+       externalising disorders such as ODD"
+   -- "... is not sufficiently distinct from existing disorders"
+   -- "Comormbidity restraint also highlights a diagnostic hierarchy, wherein
+      one disorder takes precedence over another"
+   -- "This somewhat arbitrary hierarchy likely reflects the fact that
+      disorders such as ODD and DMDD have significant shared phenomenonology
+      and that in many instances the diagnoses are subsumed by each other"
+   -- "The diagnosis offers no insight as regards treatment, and therefore, the
+      process of diagnosing DMDD is redundant."
+   -- "in practice, clinicians have to manage DMDD by extrapolating from...
+      other psychiatric disorders... medicated with stimulants and/or
+      antipsychotics"
+   -- "persitently irritable or angry mood and severe temper outbursts overlap
+      with those for ODD" *(Mayes et al 2016)*
+   -- "irritability is a criterion for multiple disorders"
+   -- "DMDD symptoms did not exist independently of other psychological
+      problems, with ODD explaining the majority of the association between
+      DMDD symptoms and comorbid psychopathology."
+   -- "demographic variables together explained little of the variance in DMDD
+      symptoms, whereas ODD explained most of the variance." *(Mayes et al 2019)*
+   -- "almost all children with DMDD symptoms have ODD"
+   -- "In contrast, approximately one third of the referred and community
+      children do not have DMDD symptoms."
+   -- "It is not clear why DMDD can be diagnosed with some disorders but not
+      others"
+   -- *Contributes to over-diagnosis rather than fixing it*
+   -- "Instead of simply replacing... DMDD will likely become wildly
+      overinclusive, used to describe all manner of kids who require no
+      diagnosis at all." *(Frances 2013)*
+   -- "Criteria... were pretty much conjured out of thin air and are not nearly
+      restrictive enough."
+   -- "There is no bright line distinguishing normal temper tantrums from
+      abnormal ones."
+   -- "... agreement between clinicians on the diagnosis of DMDD was poor in
+      DSM-5 field trials." *(Baweja 2016)*
+   -- "... may further contribute to increasing rates of mental disorders
+      diagnoses and medication use among children" *(Lochman 2015)*
+   -- "The nature of temper outbursts that should be considered as being
+      consistent with a particular developmental level is also not specified"
+      *(Mahli & Bell 2019)*
+   -- "It is unclear how 'temper outbursts' differ from 'losing one's temper' -
+      a criterion for ODD"
+   - [x] What are some alternatives?
+   -- "The great majority of these children [displaying chronic irritability
+      and anger] would /already/ meet the diagnostic requirements for ODD and are
+      not likely to ever develop BD" *(Lochman 2015)*
+   -- "The task group has recommended that WHO not accept DMDD... but rather
+      include a specifier to indicate whether or not the presentation of ODD
+      includes chronic irritability and anger."
+   -- "Whis is perhaps why the WHO has /not/ included DMDD in ICD-11, but
+      instead asses a 'with chronic irritability-anger' subtype in the criteria
+      for ODD" *(Mahli & Bell 2019)*
+   -- "Given that DMDD was created... to address the over-diagnosis of BD in
+      youth, amending the criteria of an existing disorder based on empirical
+      evidence of the construct that will encourage accurate scientific
+      investigation... is undoubtedly better than generating a new diagnosis"
+   -- "ICD-11 include a specifier to indicate whether or not the presentation
+      of ODD includes irritability" *(Mayes et al 2016)*
+   -- "[ICD-11] task force recommends that DMDD not be included in the 2017
+      ICD-11 as a separate disorder and that chronic irritability and anger
+      should be an ODD specifier instead. Our research supports this
+      recommendation" *(Mayes et al 2019)*
 ** Outro /1/3 page/
    - [ ] Do I think it should have been included?
    - [ ] Quick summary of the essay
