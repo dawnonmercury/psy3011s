@@ -4,7 +4,7 @@ description:
 authors: dawn
 categories: 
 created: 2022-10-06
-updated: 2022-10-11
+updated: 2022-10-12
 version: 0.0.14
 @end
 
@@ -27,12 +27,19 @@ version: 0.0.14
    -- "It is this belief that there is a prelude to the disorder commencing
       with an underlying pathological process that has kindled the concept of a
       prodrome"
+   -- "In contrast to the premorbid state, the prodrome refers to the early
+      stages of the actual illness... change in functioning, but [not] full-
+      blown psychotic symptoms" *(Zachar et al 2020)*
    - [ ] Structure of the paper
 ** In favor and Against Inclusion
    - [ ] *_For inclusion_*
    -- *1* "has been argued that assigning the APS descriptor prevents the
       application of non-specific psychotic labels..." *(Mahli & Bell 2019)*
    -- "... may diminish the liklihood of antipsychotic medication..."
+   -- "There may also be an advantage in reducing stigma in cases where a
+      psychosis diagnosis is premature" *(Carpenter 2020)*
+   -- "A mental disorder category is essential for advancing knowledge related
+      to therapeutics and secondary prevention for persons at CHR"
    -- *response to misdiagnosis*
    -- *2* "stigma is related more to the symptoms of the CHR syndrome than to a
       risk or diagnostic label" *(Corcoran et al 2021)*
@@ -45,6 +52,14 @@ version: 0.0.14
       persistent symptoms, with related distress and functional impairment"
    -- "A smaller group improves, who may have benefited from early
       identification and treatment or who hold important clues about resilience"
+   -- "with regard to false positives, he claimed that no one should be
+      diagnosed unless they are demonstrating... [distress]" *(Zachar et al 2020)*
+   -- "there is no scientific basis for using antipsychotic medication as a
+      standard of care for... only prodromal symptoms"
+   -- "Even 10% [of people going on to develop psychosis] is far higher than
+      incident rates in the general population" *(Carpenter 2020)*
+   -- "while the majority of CHR patients do not progress to full psychosis,
+      functional impairments are observed in most cases"
    -- *response to Unreliable*
    -- "treatment development for a syndrome is best served by its inclusion"
       *(Corcoran et al 2019)*
@@ -57,6 +72,13 @@ version: 0.0.14
       Structured Interview for Psychosis Risk"
    -- "interrater reliability in diagnosis of CHR is easily achieved in the
       research context,... likely success in training clinicians"
+   -- "CHR data are sufficient to support a consensus view on defining criteria
+      for APS as a diagnosis" *(Carpenter 2020)*
+   -- "Reliability of the APS must be documented in clinical practice outside
+      expert centers"
+   -- "DSM-5-APS reveals convincing concurrent and prognostic validation,
+      substantially echoing previous UHR psychometric research in the field"
+      *(Raballo et al 2020)*
    -- *benefits*
    -- "call... to invest in broader education of clinicians as to APsymptoms"
       *(Corcoran et al 2021)*
@@ -64,6 +86,15 @@ version: 0.0.14
       dichotomous"
    -- "in our experience, when clinicians hear about CHR and APS, they are
       eager to find out more and seek training"
+   -- "by the time someone makes the transition to psychosis... significant
+      deterioration has already taken place" *(Zachar et al 2020)*
+   -- "[early detection and treatment is owed to clients]" *(Carpenter 2020)*
+   -- "[CHR as opposed to a normal diagnosis] ensures specific clinical and
+      research attention to facilitate translation of concepts and research to
+      clinical application"
+   -- "this [as opposed to a normal diagnosis] is a time-limited diagnosis"
+   -- "it ensures attention to the potential for secondary prevention of full
+      psychosis and functional deterioration"
    - [ ] *_Against inclusion_*
    -- *Misdiagnosis*
    -- "Does not meaningfully improve upon existing definitions of at-risk
@@ -76,6 +107,11 @@ version: 0.0.14
       reliability of APS"
    -- *2* "Stigma, unnecessary antipsychotic exposure, and false-positive"
       *(Corcoran et al 2021)*
+   -- "potentially harmful treatments such as antipsychotic medication,
+      and stigmatization" *(Zachar et al 2020)*
+   -- "Perhaps the most pressing [risk] is the expectation that APsymptoms
+      will be associated with antipsychotic drug treatment regardless of
+      diagnostic catergory" *(Carpenter 2020)*
    -- *Unreliable*
    -- "not everyone who experiences subthreshold psychotic symptoms and seeks
       help goes on to develop psychosis per se" *(Mahli & Bell 2019)*
@@ -86,6 +122,13 @@ version: 0.0.14
    -- "and of /these/, only three quarters... schizophrenia"
    -- "In other words, ... only a quarter of individuals [with APS]... will
       eventually be diagnosed with schizophrenia"
+   -- "most included studies overlooked the potential confounding role of
+      ongoing antipsychotic treatment at baseline" *(Raballo et al 2020)*
+   -- "nontrivial fraction of helpseekers with a clinical equivalent of firs-
+      episode psychosis are overinclusively labeled as having APS"
+   -- "[adding both] plausibly underrate natural course transition rates,
+      because transition risks are expected to be different for [patients with
+      and withouth antipsychotic medication]"
    -- *ambiguous*
    -- "although the concept of a psychotic prodrome is a useful one, whether
       APS can meaningfully capture this seems improbable" *(Mahli & Bell 2019)*
@@ -105,7 +148,17 @@ version: 0.0.14
       functional impairment, and distress associated with APS, has led to these
       poorly defined symptoms of a syndrome being held in the same regard as a
       diagnosis" *(Mahli & Bell 2019)*
+   -- "general practitioners could interpres psychosis risk as a
+      quasi-schizophrenia diagnosis and ise it as an off label indication to
+      prevent the development of full-blown schizophrenia" *(Zachar et al 2020)*
    -- "it will likely divert the focus of research"
 ** Outro
    - [ ] Conclude
    - [ ] Do I think it should or shouldn't be included
+   -- "ongoing antipsychotic medication exposure at baseline should be a
+      motivated exclusion criteria for diagnosis [of APS]" *(Raballo et al 2020)*
+   -- "antipsychotic medication exposure at follow-up should be regarded as a
+      functional equivalent of conversion to psychosis even when positive
+      symptoms are [below threshold]"
+   -- "detailed reporting about antipsychotic treatment at baseline and follow-
+      up is mandatory"
