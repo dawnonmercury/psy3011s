@@ -11,10 +11,10 @@ version: 0.0.14
 
 * Outline
 ** Conclusion
-   - [ ] What is the topic
+   - [x] What is the topic
    -- Controversy surrounds the inclusion of Attenuated Psychosis Syndrome;
       should it or should it not be added to the DSM?
-   - [ ] Briefly, what is APS (do not talk about criteria)
+   - [x] Briefly, what is APS (do not talk about criteria)
    -- "CHR construct was created... to identify individuals who might be in a
       putative prodrome of schizophrenia" *(Corcoran et al 2021)*
    -- "APS is the most common CHR syndrome"
@@ -30,9 +30,9 @@ version: 0.0.14
    -- "In contrast to the premorbid state, the prodrome refers to the early
       stages of the actual illness... change in functioning, but [not] full-
       blown psychotic symptoms" *(Zachar et al 2020)*
-   - [ ] Structure of the paper
+   - [x] Structure of the paper
 ** In favor and Against Inclusion
-   - [ ] *_For inclusion_*
+   - [x] *_For inclusion_*
    -- *1* "has been argued that assigning the APS descriptor prevents the
       application of non-specific psychotic labels..." *(Mahli & Bell 2019)*
    -- "... may diminish the liklihood of antipsychotic medication..."
@@ -40,7 +40,7 @@ version: 0.0.14
       psychosis diagnosis is premature" *(Carpenter 2020)*
    -- "A mental disorder category is essential for advancing knowledge related
       to therapeutics and secondary prevention for persons at CHR"
-   -- *response to misdiagnosis*
+   -- [x] *response to misdiagnosis*
    -- *2* "stigma is related more to the symptoms of the CHR syndrome than to a
       risk or diagnostic label" *(Corcoran et al 2021)*
    -- "and that stigma can be managed through education"
@@ -60,7 +60,7 @@ version: 0.0.14
       incident rates in the general population" *(Carpenter 2020)*
    -- "while the majority of CHR patients do not progress to full psychosis,
       functional impairments are observed in most cases"
-   -- *response to Unreliable*
+   -- [x] *response to Unreliable*
    -- "treatment development for a syndrome is best served by its inclusion"
       *(Corcoran et al 2019)*
    -- "can be studied epidemiologically"
@@ -79,7 +79,7 @@ version: 0.0.14
    -- "DSM-5-APS reveals convincing concurrent and prognostic validation,
       substantially echoing previous UHR psychometric research in the field"
       *(Raballo et al 2020)*
-   -- *benefits*
+   - [x] *benefits*
    -- "call... to invest in broader education of clinicians as to APsymptoms"
       *(Corcoran et al 2021)*
    -- "Too many mental health professionals... see psychosis as basically
@@ -95,8 +95,8 @@ version: 0.0.14
    -- "this [as opposed to a normal diagnosis] is a time-limited diagnosis"
    -- "it ensures attention to the potential for secondary prevention of full
       psychosis and functional deterioration"
-   - [ ] *_Against inclusion_*
-   -- *Misdiagnosis*
+   - [x] *_Against inclusion_*
+   -- [x] *Misdiagnosis*
    -- "Does not meaningfully improve upon existing definitions of at-risk
       populations" *(Mahli & Bell 2019)*
    -- "significant potential for misdiagnosis"
@@ -112,7 +112,7 @@ version: 0.0.14
    -- "Perhaps the most pressing [risk] is the expectation that APsymptoms
       will be associated with antipsychotic drug treatment regardless of
       diagnostic catergory" *(Carpenter 2020)*
-   -- *Unreliable*
+   -- [x] *Unreliable*
    -- "not everyone who experiences subthreshold psychotic symptoms and seeks
       help goes on to develop psychosis per se" *(Mahli & Bell 2019)*
    -- "Furthermore, not all individuals that experience a psychotic episode
@@ -129,7 +129,7 @@ version: 0.0.14
    -- "[adding both] plausibly underrate natural course transition rates,
       because transition risks are expected to be different for [patients with
       and withouth antipsychotic medication]"
-   -- *ambiguous*
+   -- [x] *ambiguous*
    -- "although the concept of a psychotic prodrome is a useful one, whether
       APS can meaningfully capture this seems improbable" *(Mahli & Bell 2019)*
    -- "APS is ambiguously defined"
@@ -143,7 +143,7 @@ version: 0.0.14
        central to diagnosis"
    -- "Put simply, DSM-5 uses rather vague terminology to define the edges of
       APS, and this makes defining APS in clinical practice much more difficult"
-   -- *reification*
+   -- [x] *reification*
    -- "Although the criteria are clearly proposed and not codable, the
       functional impairment, and distress associated with APS, has led to these
       poorly defined symptoms of a syndrome being held in the same regard as a
@@ -153,8 +153,8 @@ version: 0.0.14
       prevent the development of full-blown schizophrenia" *(Zachar et al 2020)*
    -- "it will likely divert the focus of research"
 ** Outro
-   - [ ] Conclude
-   - [ ] Do I think it should or shouldn't be included
+   - [x] Conclude
+   - [x] Do I think it should or shouldn't be included
    -- "ongoing antipsychotic medication exposure at baseline should be a
       motivated exclusion criteria for diagnosis [of APS]" *(Raballo et al 2020)*
    -- "antipsychotic medication exposure at follow-up should be regarded as a
